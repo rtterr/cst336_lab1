@@ -27,9 +27,9 @@ in html
         </header>
         <hr />
         <nav>
-            <a href="index.html">Home</a>
-            <a href="about.html">About</a>
-            <a href="contact.html" id="currentpage">Contact</a>
+            <a href="index.php">Home</a>
+            <a href="about.php">About</a>
+            <a href="contact.php" id="currentpage">Contact</a>
         </nav>
         <br /><br />
         <div id="content">
